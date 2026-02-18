@@ -1,6 +1,6 @@
 # SG Property Landscape Streamlit App
 Jason Lim  
-_Last Update: 19 May 22_
+_Last Update: 19 May 2022_
 
 ### <ins>Requirements</ins>
 pandas  
